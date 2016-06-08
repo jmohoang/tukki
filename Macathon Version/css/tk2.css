@@ -1,0 +1,20 @@
+h1 {
+	color: blue;
+	padding-left: 30px;
+	border: solid;
+}
+
+h3 {
+	border: solid;
+	border-color: blue;
+	width: 500; 
+	height: 380;
+	 
+}
+#pv {
+	overflow-y: scroll;
+	border: solid;
+
+}
+
+
